@@ -3,7 +3,7 @@
 🥉 **3rd Place Winner** + 🧬 **Best Mixed Team Award – Aggie Hackathon 2025**
 
 > By: Avikalp Karrahe, Rachel Guo, Adeyemi Olalemi, Chaitanya (CK) Khot  
-> Tools: Python · Streamlit · XGBoost · GPT-4 · GeoPandas · [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) · **Full** Blockchain backbone
+> Tools: Python · Streamlit · XGBoost · GPT-4 · GeoPandas · Blockchain · [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald)
 
 ---
 
@@ -14,31 +14,30 @@ The NeuroPolis Chatbot enables operators to ask:
 - “Is this tweet real?”
 - “Recommend actions if risk ≥ 0.75 in Zone B.”
 
-![Chatbot Screenshot](Demo/About%20me.png)
+<p align="center">
+  <img alt="Chatbot Screenshot" src="Demo/About%20me.png" width="80%">
+</p>
 
 ---
 
 ## 🎥 Demonstration
 
-| Interface | Demo |
-|----------|------|
-| 🧠 General Chatbot | [![Chatbot.mp4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](Demo/Chatbot.mp4) |
-| 🛡️ Tweet Validation | [![Tweet Validation.mp4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](Demo/Tweet%20Validation.mp4) |
-| 🔗 Blockchain Trust Ledger | [![Trust_Ledger_prototype.mp4](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](Demo/Trust_Ledger_prototype.mp4) |
+**General Chatbot Interface**
+<video src="Demo/Chatbot.mp4" width="100%" controls></video>
 
-> *(Replace VIDEO_ID with actual thumbnail links if hosted externally or use GitHub file previews once merged.)*
+**Tweet Misinformation Detection**
+<video src="Demo/Tweet%20Validation.mp4" width="100%" controls></video>
+
+**Blockchain Trust Ledger Demo**
+<video src="Demo/Trust_Ledger_prototype.mp4" width="100%" controls></video>
 
 ---
 
-## 📄 Final Deck Preview
+## 📄 Final Presentation Deck
 
-<details>
-<summary><strong>📊 Click to Expand Final Presentation (PDF)</strong></summary>
-
-📄 [`Data Farmers – Neuropolis AggieHacks25.pdf`](Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
-<iframe src="Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf" width="100%" height="600px"></iframe>
-
-</details>
+<iframe src="Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf" width="100%" height="600px">
+<p>Your browser does not support iframes. <a href="Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf">Download the PDF instead.</a></p>
+</iframe>
 
 ---
 
@@ -52,4 +51,5 @@ The NeuroPolis Chatbot enables operators to ask:
 ---
 
 ## 📜 License
-MIT License – Open-source for research and public good.
+
+Released under the MIT License.
