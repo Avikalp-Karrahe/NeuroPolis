@@ -167,12 +167,14 @@ Open <http://localhost:8501> to interact.
 ---
 
 ## 🤝 Contributing
-We welcome contributions!  
-1. Fork repo & create a feature branch.  
-2. Run tests & ensure CI passes.  
-3. Submit PR with descriptions & reference issues.  
 
-See [CONTRIBUTING.md].
+We welcome contributions!
+
+1. **Fork the repository** and create a feature branch.  
+2. **Run tests** and ensure CI passes.  
+3. **Submit a pull request** with clear descriptions and reference any related issues.  
+4. **See [CONTRIBUTING.md](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/CONTRIBUTING.md)** for full guidelines.
+
 
 ---
 
