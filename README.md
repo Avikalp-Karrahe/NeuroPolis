@@ -2,94 +2,72 @@
 # 🌆 NeuroPolis: The Brain of a Smart City During Crisis
 🥉 3rd Place Winner + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
 
-**Team:** Avikalp Karrahe, Rachel Guo, Adeyemi Olalemi, Chaitanya (CK) Khot  
-**Tools:** Python · Streamlit · XGBoost · GPT-4 · GeoPandas · Blockchain · StructuredLabs/preswald
+🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
+🔗 [🧠 Read Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
 
 ---
 
 ## 🧠 Executive Summary
 
-As cities face increasingly complex disasters—floods, power failures, misinformation spikes—decision-makers are left paralyzed without trusted, real-time intelligence.
+NeuroPolis is an AI-powered crisis intelligence system that empowers cities to respond faster and smarter in high-stakes scenarios—floods, blackouts, and viral misinformation.
 
-**NeuroPolis** is an AI-powered crisis intelligence system that predicts cascading failures, flags fake tweets, and recommends explainable emergency actions—all from a unified interface. Built for first responders, city ops teams, and emergency managers, it’s the digital brain of a smart city under stress.
-
----
-
-## 🚨 Business Problem
-
-When sensors scream, dashboards crash, and misinformation spreads, city leaders ask:
-
-- What’s happening and where?
-- Is social media spreading false alerts?
-- Which zones are at highest risk?
-- What actions must we take now?
-
-**NeuroPolis** bridges siloed systems and filters noise—delivering real-time strategy, not just data.
+It forecasts cascading disasters, flags false tweets, and recommends data-driven actions to emergency teams in real-time—functioning as the digital brain of a smart city.
 
 ---
 
-## 📊 Data & Methodology
+## 🛠️ Innovation Highlights
 
-**Data Sources:**
+- 🔗 **Blockchain-Backed Alert Validation**  
+  Verifiable alerts and misinformation logs recorded in a tamper-proof ledger using Hyperledger Fabric.
 
-- 50,000+ rows across flood, seismic, hospital, power, social media, GeoJSON maps, and economic indicators
+- 🧠 **GPT-4 Strategic Action Engine**  
+  Custom emergency actions generated in under 3 seconds—tailored to the risk zone and severity.
 
-**Preprocessing:**
+- 🌐 **Multimodal Fusion & Sensor Contradiction**  
+  Cross-verifies social chatter against physical sensor readings using contradiction logic with 91% precision.
 
-- Time alignment & outlier correction for sensors
-- Spatial aggregation with buffers (via GeoPandas)
-- Fusion of text (tweets) + geo + time series for modeling
-
-**Models:**
-
-- Cascading Disaster Predictor: Random Forest + zone-aware rules
-- Hospital Overload Estimator: risk classification engine
-- Fake Tweet Detector: contradiction engine (sensor-grounded)
-- GPT-4 Action Generator: scenario-specific recommendations
-- Blockchain Validator: Hyperledger-based alert timestamping
+- 🧪 **Zone-Aware Forecasting**  
+  Geo-temporal prediction models that recognize and simulate cascading failures (e.g., flood → power outage → hospital overload).
 
 ---
 
-## 🌀 Hurricane Ian Case Study
+## 🧩 How NeuroPolis Works
 
-Simulated Hurricane Ian (Florida, 2022) to test NeuroPolis against a real disaster timeline.
+1. **Data Ingestion:**  
+   Pulls real-time flood, seismic, hospital, weather, and social media feeds every 60 seconds.
 
-**Impact:**
-- Predicted a 3-stage cascade: flooding → hospital strain → power outage
-- Detected 7 fake tweets within 3km of the affected zone
-- Suggested early evacuation + reroute alerts
-- Accelerated decision-making by 2.3 hours
+2. **Fusion & Cleaning:**  
+   Applies timestamp alignment, sensor repair, and spatial joins across infrastructure layers.
+
+3. **Intelligence Layer:**  
+   - Disaster Chain Predictor (Random Forest + Rule Chains)  
+   - Overload Estimator (zone-based classifier)  
+   - Misinformation Detector (sensor contradiction logic)  
+   - GPT-4 Planner (context-aware action ranking)
+
+4. **Decision Delivery:**  
+   Broadcasts actions to Streamlit dashboard, chatbot interface, and operator API.
 
 ---
 
 ## 🎥 Demonstration
 
-📺 [Chatbot Interface Demo](Demo/Chatbot.mp4)  
-🛡️ [Tweet Validation Demo](Demo/Tweet%20Validation.mp4)  
-🔗 [Blockchain Ledger Demo](Demo/Trust_Ledger_prototype.mp4)
+- [🧠 Chatbot Interface](Demo/Chatbot.mp4)  
+- [🛡️ Tweet Misinformation Detection](Demo/Tweet%20Validation.mp4)  
+- [🔗 Blockchain Trust Ledger Demo](Demo/Trust_Ledger_prototype.mp4)
 
 ---
 
-## 📄 Presentation & Code
+## 📈 Key Impact Insights
 
-📂 [Download Final Deck (PDF)](Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
-📁 [Explore Project Files & Codebase](../../tree/main)
+1. **Cascading Disaster Prediction**  
+   → Predicted 3-stage chain 4 hours before impact (flood → hospital → outage)
 
----
+2. **Fake News Filtering**  
+   → 91% precision in detecting misinformation near disaster zones
 
-## 📈 Key Insights
-
-1. **Cascading Disaster Prediction**
-   - 83% recall for multi-stage events
-   - Real-time zone alerts with severity mapping
-
-2. **Fake News Filtering**
-   - 91% precision using contradiction logic
-   - Blockchain-based tamper-proof alert logs
-
-3. **AI-Driven Action Planning**
-   - GPT-4 tailored emergency actions
-   - Reduced decision latency by over 80%
+3. **GPT-4 Planning**  
+   → Reduced human decision-making time by over 80%
 
 ---
 
@@ -104,4 +82,5 @@ Simulated Hurricane Ian (Florida, 2022) to test NeuroPolis against a real disast
 
 ## 📜 License
 
-MIT License – Open source for research and public good.
+### 🟩 MIT License – Open source for research and public good.  
+Feel free to use, remix, and build upon this project. Attribution appreciated.
