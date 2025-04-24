@@ -130,10 +130,10 @@ In a **Hurricane Ian** simulation (Florida, 2022), NeuroPolis achieved:
 
 | Feature               | Preview / Link                                |
 |-----------------------|-----------------------------------------------|
-| 🌆 **Application**        | ![About](Demo/About%20me.png)  [▶️](Demo/Chatbot.mp4) |
-| 🤖 **Chatbot **   | ![Chatbot](Demo/chatbot.png)  [▶️](Demo/Trust_Ledger_prototype.mp4) |
+| 🌆 **Application**        | ![About](Demo/About%20me.png)  |
+| 🤖 **Chatbot**   | ![Chatbot](Demo/chatbot.png)  [▶️](Demo/Chatbot.mp4) |
 | 🐦 **Tweet Validation** | ![Tweet](Demo/Tweet%20Validation.png)  [▶️](Demo/Tweet%20Validation.mp4) |
-| 🔗 **Trust Ledger**   | ![Ledger](Demo/Trust%20Ledger.png)  [▶️](Demo/Chatbot.mp4) |
+| 🔗 **Trust Ledger**   | ![Ledger](Demo/Trust%20Ledger.png)  [▶️](Demo/Trust_Ledger_prototype.mp4) |
 | 🌡️ **Sensor Status**   | ![Status](Demo/Sensor%20status.jpeg)           |
 | 📊 **Risk Dashboard** | ![Dashboard](Demo/risk%20dashboard.png)         |
 
