@@ -1,37 +1,34 @@
 <p align="center">
   <a href="#contributors-"><img alt="Contributors" src="https://img.shields.io/badge/Contributors-4-371C58?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/License-MIT-007ACC?style=flat-square&logo=mit&logoColor=white"/></a>
-  <a href="#"><img alt="Aggie Hacks 25 Finalist" src="https://img.shields.io/badge/Aggie_Hacks_25-Finalist-EE6352?style=flat-square"/></a>
+  <a href="#"><img alt="Aggie Hacks 25 Finalist" src="https://img.shields.io/badge/Aggie_Hacks_25–Finalist-EE6352?style=flat-square"/></a>
   <a href="#"><img alt="Bronze Beacon Award" src="https://img.shields.io/badge/Bronze_Beacon_Award-CD7F32?style=flat-square&logo=award&logoColor=white"/></a>
   <a href="#"><img alt="Best Mixed Team Award" src="https://img.shields.io/badge/Best_Mixed_Team_Award-512DA8?style=flat-square&logo=award&logoColor=white"/></a>
 </p>
 
-
-
-# 🌆 NeuroPolis: The Brain of a Smart City During Crisis  
-
+# 🌆 NeuroPolis: The Brain of a Smart City During Crisis
 
 <p align="center">
   <img src="https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Cover_image.png" alt="NeuroPolis Cover" width="700"/>
 </p>
-**Turning complex urban signals into clear, actionable strategies in seconds.**
+
+**Turning complex urban signals into clear, actionable strategies—in seconds.**
 
 > **TL;DR:** Real-time AI predicts disasters, verifies information, visualizes risks, and recommends life-saving actions.
 
 ---
-## 🏆 Awards  
-- **🥉 Bronze Beacon Award** – Aggie Hackathon 2025  
-- **🧬 Best Mixed Team Award** – Aggie Hackathon 2025
 
+## 🏆 Awards
+- 🥉 **Bronze Beacon Award** – Aggie Hackathon 2025  
+- 🧬 **Best Mixed Team Award** – Aggie Hackathon 2025  
 
+---
 
-## 👥 Team Members  
+## 👥 Team Members
 - [Avikalp (Avi) Karrahe](https://github.com/Avikalp-Karrahe)  
 - Rachel Guo  
 - [Chaitanya (CK) Khot](https://github.com/ckkhot)  
-- Adeyemi Olalemi
-
-
+- Adeyemi Olalemi  
 
 ---
 
@@ -47,6 +44,7 @@
 9. [Installation & Quick Start](#installation--quick-start)  
 10. [Contributing](#contributing)  
 11. [License & Acknowledgments](#license--acknowledgments)  
+12. [Contributors](#contributors-)
 
 ---
 
@@ -66,29 +64,29 @@ NeuroPolis solves this by acting as the city’s **digital brain**, unifying rea
 
 ## 🔄 How NeuroPolis Works: From Signals to Strategy
 1. **Cascading Disaster Prediction**  
-   - **Data Fusion:**  Real-time sensor readings, weather APIs, and historical disaster patterns.  
-   - **Ensemble Models:** Random Forest, XGBoost, LightGBM—forecast chain events like flood → outage → hospital overload.  
-   - **Feature Weights:** High wind (27%), rainfall (26%), severity index (33%), casualties (8%) inform early warnings.
+   - **Data Fusion:** Real-time sensor readings, weather APIs, and historical disaster patterns.  
+   - **Ensemble Models:** Random Forest, XGBoost, LightGBM—to forecast chain events like flood → outage → hospital overload.  
+   - **Feature Weights:** Wind (27%), rainfall (26%), severity index (33%), casualties (8%).
 
 2. **Misinformation Detection**  
-   - **Internal Validation:** Cross-check social posts vs. sensor data within ±10 min, with ≥70% sensor agreement for “Severity Support.”  
-   - **External Consensus:** Blockchain-based Trust Ledger (HyperLedger Fabric) ensures each flagged alert is immutable and auditable.
+   - **Internal Validation:** Cross-check social posts vs. sensor data within ± 10 min (≥ 70% sensor agreement for “Severity Support”).  
+   - **External Consensus:** Blockchain-based Trust Ledger (HyperLedger Fabric) ensures every flag is immutable and auditable.
 
 3. **Live Risk Visualization**  
-   - **Dynamic Maps:** Interactive geospatial dashboards show risk zones with severity scores (1–10).  
-   - **UI Alerts:** Color-coded signals—green to red—clearly indicate safe vs. dangerous zones.
+   - **Dynamic Maps:** Interactive geospatial dashboards with severity scores (1–10).  
+   - **UI Alerts:** Color-coded zones—green to red—indicate safety levels.
 
 4. **Decision Recommendation Engine**  
-   - **AI-Generated Plans:** GPT-4 synthesizes recommendations (e.g., evacuate if flood >75%, reroute traffic if access <30%, redirect ambulances if capacity >90%).  
+   - **AI-Generated Plans:** GPT-4 synthesizes clear steps (e.g., “Evacuate Zone C if flood > 75%”).
 
 5. **AI Chatbot Interface**  
-   - **Conversational Queries:** Ask critical questions and get immediate, precise action steps—no data digging required.
+   - **Conversational Queries:** Ask questions and get immediate, data-driven action steps—no manual data digging required.
 
 ---
 
 ## 💡 Innovation Highlights
-- **Intel Engine (Internal ML):**  Real-time forecasting, risk classification, and anomaly pattern detection—powered by robust ensemble techniques.  
-- **Trust Ledger (External Blockchain):**  Immutable audit trails via HyperLedger Fabric, logging every critical alert and misinformation event.
+- **Intel Engine (Internal ML):** Real-time forecasting, risk classification, and anomaly detection—powered by robust ensembles.  
+- **Trust Ledger (Blockchain):** Immutable audit trails for every critical alert and misinformation event.
 
 These dual layers guarantee **accuracy**, **accountability**, and **trust**—making NeuroPolis uniquely reliable for life-critical decisions.
 
@@ -96,86 +94,83 @@ These dual layers guarantee **accuracy**, **accountability**, and **trust**—ma
 
 ## 🌀 Case Study: Hurricane Ian
 In a **Hurricane Ian** simulation (Florida, 2022), NeuroPolis achieved:
-- **70% fatality reduction** through early evacuation alerts.  
-- **$11 billion** in economic losses avoided via proactive infrastructure mapping.  
-- **60% boost** in emergency asset efficiency by optimizing resource deployment.  
-- **~91 lives saved** by accelerating hospital rerouting and triage protocols.
-
-These metrics underscore how milliseconds of lead time can translate into **lives saved** and **critical cost savings**.
+- **70% fatality reduction** via early evacuation alerts.  
+- **$11 billion** saved through proactive infrastructure mapping.  
+- **60% boost** in emergency asset efficiency.  
+- **~91 lives saved** by optimizing hospital rerouting and triage.
 
 ---
 
 ## 📊 Data & Methodology
-**Data Sources (50k+ records):**  Flood/seismic/weather sensors, hospital & power logs, social media streams (real + synthetic), energy usage stats, and GeoJSON infrastructure maps.
+**Sources (50 k+ records):** Flood/seismic/weather sensors, hospital & power logs, social media streams, energy stats, GeoJSON maps.
 
-**Processing Steps:**  
+**Workflow:**
 1. Isolation Forest outlier detection  
-2. Rule-based temporal alignment (±10 min) & geospatial zoning (GeoPandas)  
-3. Ensemble forecasting (RF, XGB, LGBM)—92% accuracy for hospital overload predictions  
-4. BERT NLP with spatiotemporal filters (>3 km, >1 hr) for fake tweet detection  
-5. GPT-4 integration for real-time emergency plan synthesis
+2. Temporal (± 10 min) & geospatial zoning (GeoPandas)  
+3. Ensemble forecasting (RF, XGB, LGBM)—92% accuracy for overload predictions  
+4. BERT NLP with spatiotemporal filters for fake‐tweet detection  
+5. GPT-4 real-time plan synthesis
 
 ---
 
 ## 🚀 Live Demo & Visual Samples
 
-| Feature                 | Preview / Link                                            |
-| ----------------------- | --------------------------------------------------------- |
-| 🤖 **Chatbot**          | ![Chatbot](Demo/About%20me.png)  [Demo ▶️](Demo/Chatbot.mp4)       |
-| 🐦 **Tweet Validation** | ![Tweet](Demo/Tweet%20Validation.png)  [Demo ▶️](Demo/Tweet%20Validation.mp4) |
-| 🔗 **Trust Ledger**     | ![Ledger](Demo/Trust%20Ledger.png)  [Demo ▶️](Demo/Trust_Ledger_prototype.mp4) |
-| 🌡️ **Sensor Status Map**| ![Sensor Status](Demo/Sensor%20status.jpeg)                  |
-| 📊 **Risk Dashboard**   | ![Risk Dashboard](Demo/risk%20dashboard.png)                 |
+| Feature               | Preview / Link                                |
+|-----------------------|-----------------------------------------------|
+| 🤖 **Chatbot**        | ![Chatbot](Demo/About%20me.png)  [▶️](Demo/Chatbot.mp4) |
+| 🐦 **Tweet Validation** | ![Tweet](Demo/Tweet%20Validation.png)  [▶️](Demo/Tweet%20Validation.mp4) |
+| 🔗 **Trust Ledger**   | ![Ledger](Demo/Trust%20Ledger.png)  [▶️](Demo/Trust_Ledger_prototype.mp4) |
+| 🌡️ **Sensor Status**   | ![Status](Demo/Sensor%20status.jpeg)           |
+| 📊 **Risk Dashboard** | ![Dashboard](Demo/risk%20dashboard.png)         |
+
+---
 
 ## 🔑 Key Insights
-1. **Proactive Management:** Stage evacuations and deploy resources hours before impact.  
-2. **Data Integrity:** >90% fake tweet detection accuracy prevents misinformation-driven panic.  
-3. **Efficiency Gains:** Decision lag cut by >99%; emergency asset utilization up by 60%.
+1. **Proactive Management:** Stage evacuations hours ahead.  
+2. **Misinformation Containment:** > 90% fake‐tweet accuracy.  
+3. **Efficiency Gains:** Decision latency down > 99%; asset utilization up 60%.
 
 ---
 
 ## ⚙️ Installation & Quick Start
-bash
-# Clone the repo
+```bash
+# Clone repository
 git clone https://github.com/Avikalp-Karrahe/NeuroPolis.git
 cd NeuroPolis
 
-# Create a virtual environment
+# Setup environment
 python3 -m venv venv && source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the Streamlit app
+# Run Streamlit
 streamlit run App/main.py
+```
 
-
-Open http://localhost:8501 to interact with NeuroPolis.
+Open <http://localhost:8501> to interact.
 
 ---
 
 ## 🤝 Contributing
-We welcome contributions! Please:
-1. Fork the repo & create a feature branch.  
-2. Run tests and ensure CI passes.  
-3. Submit a PR with clear descriptions and reference relevant issues.
+We welcome contributions!  
+1. Fork repo & create a feature branch.  
+2. Run tests & ensure CI passes.  
+3. Submit PR with descriptions & reference issues.  
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more guidelines.
+See [CONTRIBUTING.md].
 
 ---
 
 ## 📜 License & Acknowledgments
 - Distributed under the [MIT License](LICENSE).  
-- Thanks to the Aggie Hackathon organizers, mentors, and all open-source projects leveraged.
+- Thanks to Aggie Hackathon organizers, mentors, and open-source projects.
 
 ---
 
-## 🎉 Contributors ✨
+## 🎉 Contributors
 <a href="https://github.com/Avikalp-Karrahe/NeuroPolis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Avikalp-Karrahe/NeuroPolis"/>
+  <img src="https://contrib.rocks/image?repo=Avikalp-Karrahe/NeuroPolis" alt="Contributors"/>
 </a>
 
-<!-- markdownlint-disable -->
-**A big applause to our team:** Avikalp Karrahe, Rachel Guo, Chaitanya Khot, Adeyemi Olalemi
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+**A big applause to our team:** Avikalp Karrahe, Rachel Guo, Chaitanya Khot, Adeyemi Olalemi.  
