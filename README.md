@@ -1,88 +1,85 @@
-
 # 🌆 NeuroPolis: The Brain of a Smart City During Crisis  
-🥉 3rd Place Winner + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
+🥉 Bronze Beacon Award + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
 
-🔗 [📄 View Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Data%20Farmers%20-%20Neuropolis%20%20AggieHacks25.pdf)  
-🔗 [🧠 Read Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
+**Code:** [NeuroPolis Python Code](https://github.com/Avikalp-Karrahe/NeuroPolis)  
+**Report:** [NeuroPolis Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)  
+**Team:** Avikalp (Avi) Karrahe, Rachel Guo, Chaitanya (CK) Khot, Adeyemi Olalemi  
+**Tools:** Python, Streamlit, Random Forest, XGBoost, LightGBM, OpenAI GPT-4, GeoPandas, Hyperledger Fabric
 
 ---
 
 ## 🧠 Executive Summary
 
-NeuroPolis is an AI-powered crisis intelligence platform built to give cities clarity, coordination, and control during compound disasters. It transforms fragmented data (sensors, tweets, hospital records) into predictive models, misinformation detection, and real-time action plans.
+As natural disasters grow more frequent and social misinformation spreads faster than emergency response systems can react, cities face escalating risks. NeuroPolis is an AI-powered crisis intelligence platform that transforms fragmented urban data—sensors, social media, hospital logs, energy usage, and infrastructure maps—into predictive insights, real-time risk visualizations, and actionable emergency plans in seconds.
+
+This system earned the Bronze Beacon Award and Best Mixed Team Award at the 2025 Aggie Hackathon for strong execution, cross-functional collaboration, and impact potential.
 
 ---
 
-## 🗂️ Slide-by-Slide Highlights
+## 🚩 The Challenge
 
-**Slide 1 – Title**  
-🧠 Branding and mission: turning signals into strategy for smart cities during crises.
-
-**Slide 2 – The Problem**  
-📉 One event triggers another (e.g., flood → power outage → hospital crisis). Data exists but is fragmented. Fake news makes it worse. Cities need decision systems, not just alerts.
-
-**Slide 3 – Our Solution**  
-🔧 Four key functions:  
-- Cascade Disaster Prediction  
-- Misinformation Detection  
-- Live Risk Visualization  
-- GPT-4-Powered Recommendation Engine
-
-**Slide 4 – Our Approach**  
-🧪 Project workflow includes EDA, preprocessing, blockchain, and modeling. Used Random Forest, XGBoost, and LightGBM.  
-
-**Slide 5 – How It Works**  
-🚨 Uses sensor and tweet signals with severity scores to trigger actions like:  
-- Evacuate if flood > 75%  
-- Reroute if road < 30%  
-- Switch hospitals if occupancy > 90%
-
-**Slide 6 – Innovation Highlight**  
-✨ Blockchain-based trust ledger + real-time pattern recognition = explainable and auditable crisis AI
-
-**Slide 7 – Visual Samples**  
-🖥️ Chatbot + blockchain ledger + dashboards and model comparisons
-
-**Slide 8 – Impact Metrics**  
-📊 Hurricane Ian simulation:  
-- 70% fatality reduction  
-- $11B economic losses saved  
-- 60% emergency asset efficiency boost
-
-**Slide 9 – Simulation Results**  
-📌 Based on modeled Hurricane Ian data. Validates NeuroPolis' decision logic and risk reductions.
-
-**Slide 10 – Team**  
-👥 Avikalp, Rachel, CK, Adeyemi — interdisciplinary power squad (MSBA + MBA)
-
-**Slide 11 – Appendix Index**  
-📚 Lists the 8 core modules: prediction model, tweet classifier, risk dashboard, GPT planner, blockchain audit system, chatbot, and tech stack.
-
-**Slide 12 – Documentation**  
-📎 Includes links to Colab notebooks, docs, and simulations.
-
-**Slide 13 – Related Research**  
-🧠 Literature + tool stack (Preswald, FloodNet, Pandas, Hyperledger)
-
-**Slide 14 – Data Exploration: Severity & Weather**  
-☔ Distributions of disaster severity and weather metrics; confirms clean and unbiased inputs
-
-**Slide 15 – Model Performance**  
-🔥 Feature importance + perfect classification on synthetic data
-
-**Slide 16 – Interactive Risk Maps**  
-🗺️ Zone classification map with consistent sensor scores across regions
+Urban crises cascade: a flood triggers power outages, hospitals become overwhelmed, and misinformation fuels panic online. Emergency teams are inundated with siloed data streams and lack a unified decision system to anticipate what comes next and coordinate rapid, trusted responses.
 
 ---
 
-## 👥 Team
+## 💡 Our Solution
 
-- Avikalp Karrahe  
-- Rachel Guo  
-- Adeyemi Olalemi  
-- Chaitanya (CK) Khot
+NeuroPolis serves as the city’s digital brain during multi-disaster scenarios, offering:
+
+- **Cascading Disaster Prediction:** Learns from historical patterns and real-time signals to forecast linked events (e.g., flood → power outage → hospital overload).
+- **Misinformation Detection:** Flags fake posts by cross-verifying social media chatter against ground-truth sensor data and official records.
+- **Live Risk Visualization:** Renders interactive zone maps that update risk levels continuously.
+- **Decision Recommendation Engine:** Generates concise, scenario-based action plans via GPT-4, ensuring leaders can act decisively.
 
 ---
 
-## 📜 [MIT License – Open source for research and public good](LICENSE)  
-Feel free to use, remix, and build upon this project. Attribution appreciated.
+## 📊 Data & Methodology
+
+**Data Sources**  
+50,000+ records from flood, seismic, and weather sensors; hospital capacity and power logs; normalized energy usage; social media streams (real + synthetic); and GeoJSON infrastructure maps.
+
+**Preprocessing & Modeling**  
+- Outlier detection using Isolation Forest for weather anomalies  
+- Rule-based sensor classification and temporal alignment (±10 min)  
+- Geospatial zone matching with GeoPandas  
+- Ensemble learning (Random Forest, XGBoost, LightGBM) forecasting disaster severity and hospital overload risk (92% accuracy)  
+- BERT-based NLP and proximity rules (>3 km, >1 hr) for fake tweet detection  
+- GPT-4 integration for real-time emergency plan generation
+
+---
+
+## 🚀 Demonstration Highlights
+
+- **Predictive Forecasting:** Input a future timestamp to view predicted severity scores, hospital risk levels, and AI-generated action plans.  
+- **Misinformation Flagging:** Detect and label suspicious tweets by comparing against sensor evidence within defined spatiotemporal windows.  
+- **Historical Pattern Analysis:** Aggregate and visualize past events to uncover trends and optimize resource allocation.
+
+---
+
+## 🔑 Key Insights
+
+1. **Proactive Crisis Management**  
+   Early warnings up to hours ahead enable proactive evacuations and staged resource deployment.
+
+2. **Trustworthy Information**  
+   >90% accuracy in fake tweet detection reduces panic and prevents costly false alarms.
+
+3. **Optimized Response**  
+   AI-generated emergency plans cut decision-making lag by >99%, boosting emergency asset efficiency by 60%.
+
+---
+
+## 👥 Team & Acknowledgments
+
+- **Avikalp (Avi) Karrahe** (MSBA, Project Manager & Data Scientist)  
+- **Rachel Guo** (MSBA, Data Engineer)  
+- **Chaitanya (CK) Khot** (MBA, ML Engineer)  
+- **Adeyemi Olalemi** (MBA, Frontend Developer)
+
+Thank you to the Aggie Hackathon organizers, mentors, and fellow participants for their support and feedback.
+
+---
+
+## 📜 License
+
+MIT License — Open source for research and public good. Feel free to use, remix, and build on NeuroPolis. Attribution appreciated.
