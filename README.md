@@ -2,16 +2,49 @@
 # 🌆 NeuroPolis: The Brain of a Smart City During Crisis  
 🥉 3rd Place Winner + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
 
-🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/final_deck.pdf)  
+🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
 🔗 [🧠 Read Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
 
 ---
 
 ## 🧠 Executive Summary
 
-**NeuroPolis** is an AI-powered crisis intelligence system that empowers cities to respond faster and smarter in high-stakes scenarios—floods, blackouts, and viral misinformation.
+As natural disasters become more frequent and social misinformation spreads faster than emergency response systems can react, cities are left vulnerable.
 
-It forecasts cascading disasters, flags false tweets, and recommends data-driven actions to emergency teams in real-time—functioning as the digital brain of a smart city.
+**NeuroPolis** is a real-time, AI-powered disaster intelligence dashboard designed to predict disasters, flag fake social media posts, and generate actionable emergency plans — all within seconds.
+
+This project was awarded **3rd Prize and Best Mixed Team** at the 2025 Aggie Hackathon for innovation, intelligence modeling and impact potential.
+
+---
+
+## 🚨 Business Problem
+
+In crisis situations like floods or cyberattacks, city leaders face overwhelming volumes of noisy data and misinformation.  
+Key questions we address:
+
+- What type of disaster is unfolding right now, and where?  
+- Is social media reporting false information?  
+- How severe are the consequences?  
+- What immediate actions should the city take?
+
+---
+
+## 📊 Data & Methodology
+
+**Dataset:**  
+50,000+ rows across sensors, weather, social media, infrastructure maps
+
+**Preprocessing:**  
+- Outlier detection in weather via Isolation Forest  
+- Sensor classification via rule-based logic  
+- Location matching using geopy and GeoJSON infrastructure maps  
+- Data fusion of time-series, spatial, and text features
+
+**Models:**  
+- **Disaster Severity Prediction:** Rule-based logic + weather-based mapping  
+- **Hospital Overload Risk:** Random Forest Classifier trained on severity, disaster type and hospital proximity (92% accuracy)  
+- **Fake Tweet Detection:** Proximity validation + BERT-based NLP  
+- **Emergency Plan Generation:** GPT-4 generated concise, scenario-based action prompts
 
 ---
 
@@ -80,6 +113,5 @@ It forecasts cascading disasters, flags false tweets, and recommends data-driven
 
 ---
 
-## 📜 [MIT License – Open source for research and public good](LICENSE)
-
+## 📜 [MIT License – Open source for research and public good](LICENSE)  
 Feel free to use, remix, and build upon this project. Attribution appreciated.
