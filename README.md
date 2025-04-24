@@ -1,15 +1,15 @@
 
-# 🌆 NeuroPolis: The Brain of a Smart City During Crisis
+# 🌆 NeuroPolis: The Brain of a Smart City During Crisis  
 🥉 3rd Place Winner + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
 
-🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
-🔗 [🧠 Read Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
+🔗 [📄 View Final Presentation Deck (PDF)](Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
+🔗 [🧠 Read Executive Summary](Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
 
 ---
 
 ## 🧠 Executive Summary
 
-NeuroPolis is an AI-powered crisis intelligence system that empowers cities to respond faster and smarter in high-stakes scenarios—floods, blackouts, and viral misinformation.
+**NeuroPolis** is an AI-powered crisis intelligence system that empowers cities to respond faster and smarter in high-stakes scenarios—floods, blackouts, and viral misinformation.
 
 It forecasts cascading disasters, flags false tweets, and recommends data-driven actions to emergency teams in real-time—functioning as the digital brain of a smart city.
 
@@ -33,19 +33,19 @@ It forecasts cascading disasters, flags false tweets, and recommends data-driven
 
 ## 🧩 How NeuroPolis Works
 
-1. **Data Ingestion:**  
+1. **Data Ingestion**  
    Pulls real-time flood, seismic, hospital, weather, and social media feeds every 60 seconds.
 
-2. **Fusion & Cleaning:**  
+2. **Fusion & Cleaning**  
    Applies timestamp alignment, sensor repair, and spatial joins across infrastructure layers.
 
-3. **Intelligence Layer:**  
+3. **Intelligence Layer**  
    - Disaster Chain Predictor (Random Forest + Rule Chains)  
    - Overload Estimator (zone-based classifier)  
    - Misinformation Detector (sensor contradiction logic)  
    - GPT-4 Planner (context-aware action ranking)
 
-4. **Decision Delivery:**  
+4. **Decision Delivery**  
    Broadcasts actions to Streamlit dashboard, chatbot interface, and operator API.
 
 ---
@@ -60,14 +60,14 @@ It forecasts cascading disasters, flags false tweets, and recommends data-driven
 
 ## 📈 Key Impact Insights
 
-1. **Cascading Disaster Prediction**  
-   → Predicted 3-stage chain 4 hours before impact (flood → hospital → outage)
+- **Cascading Disaster Prediction**  
+  → Predicted 3-stage chain 4 hours before impact (flood → hospital → outage)
 
-2. **Fake News Filtering**  
-   → 91% precision in detecting misinformation near disaster zones
+- **Fake News Filtering**  
+  → 91% precision in detecting misinformation near disaster zones
 
-3. **GPT-4 Planning**  
-   → Reduced human decision-making time by over 80%
+- **GPT-4 Planning**  
+  → Reduced human decision-making time by over 80%
 
 ---
 
@@ -80,7 +80,6 @@ It forecasts cascading disasters, flags false tweets, and recommends data-driven
 
 ---
 
-## 📜 License
+## 📜 [MIT License – Open source for research and public good](LICENSE)
 
-### 🟩 MIT License – Open source for research and public good.  
 Feel free to use, remix, and build upon this project. Attribution appreciated.
