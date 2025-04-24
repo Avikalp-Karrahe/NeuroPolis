@@ -1,0 +1,403 @@
+City Disaster Events Zonal Summary Corpus
+------------------------------------------
+This document provides a detailed overview of disaster events in each city zone, including risk levels, predominant disaster types, and counts for key events such as floods, fires, and hurricanes.
+
+Zone 0.0 Summary:
+Total Events: 1105.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 229.
+Fire Events Count: 207.
+Hurricane Events Count: 234.
+
+Zone 1.0 Summary:
+Total Events: 960.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 193.
+Fire Events Count: 185.
+Hurricane Events Count: 203.
+
+Zone 2.0 Summary:
+Total Events: 925.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 185.
+Fire Events Count: 197.
+Hurricane Events Count: 180.
+
+Zone 3.0 Summary:
+Total Events: 917.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 198.
+Fire Events Count: 181.
+Hurricane Events Count: 146.
+
+Zone 4.0 Summary:
+Total Events: 1110.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 221.
+Fire Events Count: 210.
+Hurricane Events Count: 215.
+
+Zone 5.0 Summary:
+Total Events: 999.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 223.
+Fire Events Count: 197.
+Hurricane Events Count: 173.
+
+Zone 6.0 Summary:
+Total Events: 903.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 172.
+Fire Events Count: 180.
+Hurricane Events Count: 198.
+
+Zone 7.0 Summary:
+Total Events: 1145.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 237.
+Fire Events Count: 226.
+Hurricane Events Count: 222.
+
+Zone 8.0 Summary:
+Total Events: 1014.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 179.
+Fire Events Count: 220.
+Hurricane Events Count: 188.
+
+Zone 9.0 Summary:
+Total Events: 952.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 187.
+Fire Events Count: 171.
+Hurricane Events Count: 210.
+
+Zone 10.0 Summary:
+Total Events: 987.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 182.
+Fire Events Count: 224.
+Hurricane Events Count: 221.
+
+Zone 11.0 Summary:
+Total Events: 1042.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 199.
+Fire Events Count: 226.
+Hurricane Events Count: 191.
+
+Zone 12.0 Summary:
+Total Events: 968.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 174.
+Fire Events Count: 180.
+Hurricane Events Count: 218.
+
+Zone 13.0 Summary:
+Total Events: 1102.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 222.
+Fire Events Count: 222.
+Hurricane Events Count: 237.
+
+Zone 14.0 Summary:
+Total Events: 896.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 195.
+Fire Events Count: 175.
+Hurricane Events Count: 165.
+
+Zone 15.0 Summary:
+Total Events: 1018.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 189.
+Fire Events Count: 216.
+Hurricane Events Count: 186.
+
+Zone 16.0 Summary:
+Total Events: 901.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 171.
+Fire Events Count: 176.
+Hurricane Events Count: 184.
+
+Zone 17.0 Summary:
+Total Events: 992.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 184.
+Fire Events Count: 184.
+Hurricane Events Count: 227.
+
+Zone 18.0 Summary:
+Total Events: 924.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 177.
+Fire Events Count: 190.
+Hurricane Events Count: 195.
+
+Zone 19.0 Summary:
+Total Events: 1180.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 218.
+Fire Events Count: 219.
+Hurricane Events Count: 234.
+
+Zone 20.0 Summary:
+Total Events: 949.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 201.
+Fire Events Count: 186.
+Hurricane Events Count: 189.
+
+Zone 21.0 Summary:
+Total Events: 1006.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 195.
+Fire Events Count: 203.
+Hurricane Events Count: 198.
+
+Zone 22.0 Summary:
+Total Events: 1079.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 224.
+Fire Events Count: 222.
+Hurricane Events Count: 220.
+
+Zone 23.0 Summary:
+Total Events: 988.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 218.
+Fire Events Count: 177.
+Hurricane Events Count: 199.
+
+Zone 24.0 Summary:
+Total Events: 1031.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 190.
+Fire Events Count: 204.
+Hurricane Events Count: 205.
+
+Zone 25.0 Summary:
+Total Events: 1142.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 230.
+Fire Events Count: 245.
+Hurricane Events Count: 236.
+
+Zone 26.0 Summary:
+Total Events: 1222.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 220.
+Fire Events Count: 219.
+Hurricane Events Count: 254.
+
+Zone 27.0 Summary:
+Total Events: 947.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 178.
+Fire Events Count: 195.
+Hurricane Events Count: 185.
+
+Zone 28.0 Summary:
+Total Events: 1027.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 224.
+Fire Events Count: 195.
+Hurricane Events Count: 218.
+
+Zone 29.0 Summary:
+Total Events: 1099.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 219.
+Fire Events Count: 207.
+Hurricane Events Count: 238.
+
+Zone 30.0 Summary:
+Total Events: 957.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 165.
+Fire Events Count: 196.
+Hurricane Events Count: 201.
+
+Zone 31.0 Summary:
+Total Events: 963.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 206.
+Fire Events Count: 186.
+Hurricane Events Count: 201.
+
+Zone 32.0 Summary:
+Total Events: 953.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 209.
+Fire Events Count: 173.
+Hurricane Events Count: 176.
+
+Zone 33.0 Summary:
+Total Events: 1037.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 203.
+Fire Events Count: 200.
+Hurricane Events Count: 222.
+
+Zone 34.0 Summary:
+Total Events: 931.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 213.
+Fire Events Count: 168.
+Hurricane Events Count: 195.
+
+Zone 35.0 Summary:
+Total Events: 1001.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 209.
+Fire Events Count: 195.
+Hurricane Events Count: 190.
+
+Zone 36.0 Summary:
+Total Events: 1058.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 217.
+Fire Events Count: 218.
+Hurricane Events Count: 216.
+
+Zone 37.0 Summary:
+Total Events: 827.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 164.
+Fire Events Count: 153.
+Hurricane Events Count: 174.
+
+Zone 38.0 Summary:
+Total Events: 998.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 210.
+Fire Events Count: 186.
+Hurricane Events Count: 205.
+
+Zone 39.0 Summary:
+Total Events: 925.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 175.
+Fire Events Count: 200.
+Hurricane Events Count: 195.
+
+Zone 40.0 Summary:
+Total Events: 839.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 163.
+Fire Events Count: 161.
+Hurricane Events Count: 176.
+
+Zone 41.0 Summary:
+Total Events: 1030.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Fire.
+Flood Events Count: 213.
+Fire Events Count: 234.
+Hurricane Events Count: 214.
+
+Zone 42.0 Summary:
+Total Events: 943.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 179.
+Fire Events Count: 189.
+Hurricane Events Count: 180.
+
+Zone 43.0 Summary:
+Total Events: 940.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Hurricane.
+Flood Events Count: 181.
+Fire Events Count: 188.
+Hurricane Events Count: 215.
+
+Zone 44.0 Summary:
+Total Events: 975.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Flood.
+Flood Events Count: 206.
+Fire Events Count: 191.
+Hurricane Events Count: 185.
+
+Zone 45.0 Summary:
+Total Events: 1045.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 217.
+Fire Events Count: 221.
+Hurricane Events Count: 196.
+
+Zone 46.0 Summary:
+Total Events: 956.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 174.
+Fire Events Count: 182.
+Hurricane Events Count: 196.
+
+Zone 47.0 Summary:
+Total Events: 1036.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 198.
+Fire Events Count: 190.
+Hurricane Events Count: 214.
+
+Zone 48.0 Summary:
+Total Events: 985.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Earthquake.
+Flood Events Count: 193.
+Fire Events Count: 201.
+Hurricane Events Count: 192.
+
+Zone 49.0 Summary:
+Total Events: 1071.
+Most Common Risk Level: Low.
+Most Common Disaster Type: Industrial accident.
+Flood Events Count: 225.
+Fire Events Count: 183.
+Hurricane Events Count: 208.
