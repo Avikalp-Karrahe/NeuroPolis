@@ -46,19 +46,18 @@
 ---
 
 ## 📋 Table of Contents
-1. [Executive Summary](#executive-summary)  
-2. [The Challenge](#the-challenge)  
-3. [How It Works](#how-neuropolis-works-from-signals-to-strategy)  
-4. [Innovation Highlights](#innovation-highlights)  
-5. [Case Study: Hurricane Ian](#case-study-hurricane-ian)  
-6. [Data & Methodology](#data--methodology)  
-7. [Live Demo Previews](#live-demo-previews)  
-8. [Key Insights](#key-insights)  
-9. [Installation & Quick Start](#installation--quick-start)  
-10. [Contributing](#contributing)  
-11. [License & Acknowledgments](#license--acknowledgments)  
-12. [Contributors](#contributors-)
-
+1. Executive Summary
+2. The Challenge
+3. How It Works
+4. Innovation Highlights
+5. Case Study: Hurricane Ian
+6. Data & Methodology
+7. Live Demo Previews
+8. Key Insights
+9. Installation & Quick Start
+10. Contributing
+11. License & Acknowledgments 
+12. Contributors
 ---
 
 ## 🧠 Executive Summary
