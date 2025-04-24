@@ -2,8 +2,8 @@
 # 🌆 NeuroPolis: The Brain of a Smart City During Crisis  
 🥉 3rd Place Winner + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
 
-🔗 [📄 View Final Presentation Deck (PDF)](Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
-🔗 [🧠 Read Executive Summary](Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
+🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/final_deck.pdf)  
+🔗 [🧠 Read Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
 
 ---
 
