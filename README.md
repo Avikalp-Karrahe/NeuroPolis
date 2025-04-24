@@ -2,105 +2,76 @@
 # 🌆 NeuroPolis: The Brain of a Smart City During Crisis  
 🥉 3rd Place Winner + 🧬 Best Mixed Team Award – Aggie Hackathon 2025
 
-🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)  
+🔗 [📄 View Final Presentation Deck (PDF)](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/Data%20Farmers%20-%20Neuropolis%20%20AggieHacks25.pdf)  
 🔗 [🧠 Read Executive Summary](https://github.com/Avikalp-Karrahe/NeuroPolis/blob/main/Docs/NeuroPolis%20-%20Executive%20Summary.pdf)
 
 ---
 
 ## 🧠 Executive Summary
 
-As natural disasters become more frequent and social misinformation spreads faster than emergency response systems can react, cities are left vulnerable.
-
-**NeuroPolis** is a real-time, AI-powered disaster intelligence dashboard designed to predict disasters, flag fake social media posts, and generate actionable emergency plans — all within seconds.
-
-This project was awarded **3rd Prize and Best Mixed Team** at the 2025 Aggie Hackathon for innovation, intelligence modeling and impact potential.
+NeuroPolis is an AI-powered crisis intelligence platform built to give cities clarity, coordination, and control during compound disasters. It transforms fragmented data (sensors, tweets, hospital records) into predictive models, misinformation detection, and real-time action plans.
 
 ---
 
-## 🚨 Business Problem
+## 🗂️ Slide-by-Slide Highlights
 
-In crisis situations like floods or cyberattacks, city leaders face overwhelming volumes of noisy data and misinformation.  
-Key questions we address:
+**Slide 1 – Title**  
+🧠 Branding and mission: turning signals into strategy for smart cities during crises.
 
-- What type of disaster is unfolding right now, and where?  
-- Is social media reporting false information?  
-- How severe are the consequences?  
-- What immediate actions should the city take?
+**Slide 2 – The Problem**  
+📉 One event triggers another (e.g., flood → power outage → hospital crisis). Data exists but is fragmented. Fake news makes it worse. Cities need decision systems, not just alerts.
 
----
+**Slide 3 – Our Solution**  
+🔧 Four key functions:  
+- Cascade Disaster Prediction  
+- Misinformation Detection  
+- Live Risk Visualization  
+- GPT-4-Powered Recommendation Engine
 
-## 📊 Data & Methodology
+**Slide 4 – Our Approach**  
+🧪 Project workflow includes EDA, preprocessing, blockchain, and modeling. Used Random Forest, XGBoost, and LightGBM.  
 
-**Dataset:**  
-50,000+ rows across sensors, weather, social media, infrastructure maps
+**Slide 5 – How It Works**  
+🚨 Uses sensor and tweet signals with severity scores to trigger actions like:  
+- Evacuate if flood > 75%  
+- Reroute if road < 30%  
+- Switch hospitals if occupancy > 90%
 
-**Preprocessing:**  
-- Outlier detection in weather via Isolation Forest  
-- Sensor classification via rule-based logic  
-- Location matching using geopy and GeoJSON infrastructure maps  
-- Data fusion of time-series, spatial, and text features
+**Slide 6 – Innovation Highlight**  
+✨ Blockchain-based trust ledger + real-time pattern recognition = explainable and auditable crisis AI
 
-**Models:**  
-- **Disaster Severity Prediction:** Rule-based logic + weather-based mapping  
-- **Hospital Overload Risk:** Random Forest Classifier trained on severity, disaster type and hospital proximity (92% accuracy)  
-- **Fake Tweet Detection:** Proximity validation + BERT-based NLP  
-- **Emergency Plan Generation:** GPT-4 generated concise, scenario-based action prompts
+**Slide 7 – Visual Samples**  
+🖥️ Chatbot + blockchain ledger + dashboards and model comparisons
 
----
+**Slide 8 – Impact Metrics**  
+📊 Hurricane Ian simulation:  
+- 70% fatality reduction  
+- $11B economic losses saved  
+- 60% emergency asset efficiency boost
 
-## 🛠️ Innovation Highlights
+**Slide 9 – Simulation Results**  
+📌 Based on modeled Hurricane Ian data. Validates NeuroPolis' decision logic and risk reductions.
 
-- 🔗 **Blockchain-Backed Alert Validation**  
-  Verifiable alerts and misinformation logs recorded in a tamper-proof ledger using Hyperledger Fabric.
+**Slide 10 – Team**  
+👥 Avikalp, Rachel, CK, Adeyemi — interdisciplinary power squad (MSBA + MBA)
 
-- 🧠 **GPT-4 Strategic Action Engine**  
-  Custom emergency actions generated in under 3 seconds—tailored to the risk zone and severity.
+**Slide 11 – Appendix Index**  
+📚 Lists the 8 core modules: prediction model, tweet classifier, risk dashboard, GPT planner, blockchain audit system, chatbot, and tech stack.
 
-- 🌐 **Multimodal Fusion & Sensor Contradiction**  
-  Cross-verifies social chatter against physical sensor readings using contradiction logic with 91% precision.
+**Slide 12 – Documentation**  
+📎 Includes links to Colab notebooks, docs, and simulations.
 
-- 🧪 **Zone-Aware Forecasting**  
-  Geo-temporal prediction models that recognize and simulate cascading failures (e.g., flood → power outage → hospital overload).
+**Slide 13 – Related Research**  
+🧠 Literature + tool stack (Preswald, FloodNet, Pandas, Hyperledger)
 
----
+**Slide 14 – Data Exploration: Severity & Weather**  
+☔ Distributions of disaster severity and weather metrics; confirms clean and unbiased inputs
 
-## 🧩 How NeuroPolis Works
+**Slide 15 – Model Performance**  
+🔥 Feature importance + perfect classification on synthetic data
 
-1. **Data Ingestion**  
-   Pulls real-time flood, seismic, hospital, weather, and social media feeds every 60 seconds.
-
-2. **Fusion & Cleaning**  
-   Applies timestamp alignment, sensor repair, and spatial joins across infrastructure layers.
-
-3. **Intelligence Layer**  
-   - Disaster Chain Predictor (Random Forest + Rule Chains)  
-   - Overload Estimator (zone-based classifier)  
-   - Misinformation Detector (sensor contradiction logic)  
-   - GPT-4 Planner (context-aware action ranking)
-
-4. **Decision Delivery**  
-   Broadcasts actions to Streamlit dashboard, chatbot interface, and operator API.
-
----
-
-## 🎥 Demonstration
-
-- [🧠 Chatbot Interface](Demo/Chatbot.mp4)  
-- [🛡️ Tweet Misinformation Detection](Demo/Tweet%20Validation.mp4)  
-- [🔗 Blockchain Trust Ledger Demo](Demo/Trust_Ledger_prototype.mp4)
-
----
-
-## 📈 Key Impact Insights
-
-- **Cascading Disaster Prediction**  
-  → Predicted 3-stage chain 4 hours before impact (flood → hospital → outage)
-
-- **Fake News Filtering**  
-  → 91% precision in detecting misinformation near disaster zones
-
-- **GPT-4 Planning**  
-  → Reduced human decision-making time by over 80%
+**Slide 16 – Interactive Risk Maps**  
+🗺️ Zone classification map with consistent sensor scores across regions
 
 ---
 
