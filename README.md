@@ -80,15 +80,16 @@ These results highlight how NeuroPolis can turn hours of delay into minutes of l
 ---
 
 ## 🚀 Demo Previews
-### 🤖 Chatbot Interface
-![Chatbot Demo](Demo/About%20me.png)
-<video src="Demo/Chatbot.mp4" controls width="480" />
 
-### 🐦 Tweet Validation
-<video src="Demo/Tweet%20Validation.mp4" controls width="480" />
+### 🤖 Chatbot Interface  
+![Chatbot Snapshot](Demo/About%20me.png)  
+[▶️ Watch Chatbot Demo](Demo/Chatbot.mp4)
 
-### 🔗 Trust Ledger Prototype
-<video src="Demo/Trust_Ledger_prototype.mp4" controls width="480" />
+### 🐦 Tweet Validation  
+[▶️ Watch Tweet Validation Demo](Demo/Tweet%20Validation.mp4)
+
+### 🔗 Trust Ledger Prototype  
+[▶️ Watch Trust Ledger Prototype](Demo/Trust_Ledger_prototype.mp4)
 
 ---
 
