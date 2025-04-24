@@ -24,11 +24,24 @@
 
 ---
 
+## 🛠️ Technology Stack
+- [preswald](https://github.com/StructuredLabs/preswald) (StructuredLabs) — Open-source framework for building data apps, dashboards, and internal tools with Python.
+- [Google Colab](https://colab.research.google.com) — Notebook environment to prototype and share Python code.
+- [Streamlit](https://streamlit.io) — Rapid UI for data apps and dashboards.
+- [pandas](https://pandas.pydata.org) — Data manipulation & analysis.
+- [Hyperledger Fabric](https://www.hyperledger.org/use/fabric) — Blockchain for immutable audit trails.
+- [OpenAI GPT-4](https://openai.com) — LLM for synthesizing recommendations.
+
+---
+
 ## 👥 Team Members
-- [Avikalp (Avi) Karrahe](https://github.com/Avikalp-Karrahe)  
-- Rachel Guo  
-- [Chaitanya (CK) Khot](https://github.com/ckkhot)  
-- Adeyemi Olalemi  
+
+| Name                      | LinkedIn                                                      | GitHub                                                        |
+|---------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| Avikalp (Avi) Karrahe     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avikalp/) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Avikalp-Karrahe) |
+| Rachel Guo                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-guo0429/) |                                                               |
+| Chaitanya (CK) Khot       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyakhot/) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)](https://github.com/ckkhot) |
+| Adeyemi Olalemi           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemiolalemi/) |                                                               |
 
 ---
 
@@ -162,15 +175,17 @@ See [CONTRIBUTING.md].
 
 ---
 
-## 📜 License & Acknowledgments
+## 📜 License
 - Distributed under the [MIT License](LICENSE).  
-- Thanks to Aggie Hackathon organizers, mentors, and open-source projects.
 
 ---
 
-## 🎉 Contributors
-<a href="https://github.com/Avikalp-Karrahe/NeuroPolis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Avikalp-Karrahe/NeuroPolis" alt="Contributors"/>
-</a>
+## 🎉 Acknowledgments & Recognition
+Congratulations to all award-winning teams at Aggie Hackathon 2025 for their outstanding projects and achievements!
+We would like to extend our heartfelt appreciation to the Aggie Hackathon organizers, mentors, and the open-source community for their invaluable support and guidance.
 
-**A big applause to our team:** Avikalp Karrahe, Rachel Guo, Chaitanya Khot, Adeyemi Olalemi.  
+If you found this project valuable, please ⭐ star our [GitHub repository](https://github.com/Avikalp-Karrahe/NeuroPolis) and share it with your network!
+
+😏 You made it all the way here! Thank you for your time and support. Let’s connect on LinkedIn – we welcome referrals and new opportunities to collaborate.
+
+
