@@ -22,22 +22,20 @@ The NeuroPolis Chatbot enables operators to ask:
 
 ## 🎥 Demonstration
 
-**General Chatbot Interface**
+### 🧠 General Chatbot Interface
 <video src="Demo/Chatbot.mp4" width="100%" controls></video>
 
-**Tweet Misinformation Detection**
+### 🛡️ Tweet Misinformation Detection
 <video src="Demo/Tweet%20Validation.mp4" width="100%" controls></video>
 
-**Blockchain Trust Ledger Demo**
+### 🔗 Blockchain Trust Ledger Demo
 <video src="Demo/Trust_Ledger_prototype.mp4" width="100%" controls></video>
 
 ---
 
 ## 📄 Final Presentation Deck
 
-<iframe src="Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf" width="100%" height="600px">
-<p>Your browser does not support iframes. <a href="Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf">Download the PDF instead.</a></p>
-</iframe>
+[📊 Download the Final Deck (PDF)](Docs/Data%20Farmers%20-%20Neuropolis%20AggieHacks25.pdf)
 
 ---
 
