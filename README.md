@@ -39,7 +39,7 @@
 | Name                      | LinkedIn                                                      | GitHub                                                        |
 |---------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
 | Avikalp (Avi) Karrahe     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avikalp/) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Avikalp-Karrahe) |
-| Rachel Guo                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-guo0429/) |                                                               |
+| Rachel Guo                | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-guo0429/) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rachelqingguo) |
 | Chaitanya (CK) Khot       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyakhot/) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white)](https://github.com/ckkhot) |
 | Adeyemi Olalemi           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyemiolalemi/) |                                                               |
 
@@ -64,6 +64,8 @@
 NeuroPolis is an AI-powered crisis intelligence platform that empowers cities to **anticipate**, **visualize**, and **respond** to cascading disasters in real time. By fusing diverse data sources—from flood sensors to social media chatter—NeuroPolis delivers unified intelligence and clear action plans within seconds.
 
 Our platform clinched the Bronze Beacon Award and Best Mixed Team Award at Aggie Hackathon 2025 for its robust execution, cross-functional innovation, and high-impact potential.
+
+[Presentation Deck](Docs/Data%20Farmers%20-%20Neuropolis%20%20AggieHacks25.pdf)
 
 ---
 
@@ -129,10 +131,12 @@ In a **Hurricane Ian** simulation (Florida, 2022), NeuroPolis achieved:
 
 | Feature               | Preview / Link                                |
 |-----------------------|-----------------------------------------------|
+| 🌡️ **Presentation**   | ![Presentation](Demo/Presentation%20deck.png)  [▶️](Docs/Data%20Farmers%20-%20Neuropolis%20%20AggieHacks25.pdf) |
 | 🌆 **Application**        | ![About](Demo/About%20me.png)  |
 | 🤖 **Chatbot**   | ![Chatbot](Demo/chatbot.png)  [▶️](Demo/Chatbot.mp4) |
 | 🐦 **Tweet Validation** | ![Tweet](Demo/Tweet%20Validation.png)  [▶️](Demo/Tweet%20Validation.mp4) |
 | 🔗 **Trust Ledger**   | ![Ledger](Demo/Trust%20Ledger.png)  [▶️](Demo/Trust_Ledger_prototype.mp4) |
+| 📋 **Preswald**   | ![Status](Demo/Preswald.png)           |
 | 🌡️ **Sensor Status**   | ![Status](Demo/Sensor%20status.jpeg)           |
 | 📊 **Risk Dashboard** | ![Dashboard](Demo/risk%20dashboard.png)         |
 
