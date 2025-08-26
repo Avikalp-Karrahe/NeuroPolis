@@ -196,8 +196,5 @@ git checkout -b feature/your-amazing-contribution
 ---
 
 ## 🎉 Contributors
-<a href="https://github.com/Avikalp-Karrahe/NeuroPolis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Avikalp-Karrahe/NeuroPolis" alt="Contributors"/>
-</a>
 
-**A big applause to our team:** Avikalp Karrahe, Rachel Guo, Chaitanya Khot, Adeyemi Olalemi.
+**A big applause to the team:** Avikalp Karrahe, Rachel Guo, Chaitanya Khot, Adeyemi Olalemi.
