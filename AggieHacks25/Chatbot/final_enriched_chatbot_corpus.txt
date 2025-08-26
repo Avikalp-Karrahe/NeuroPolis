@@ -1,0 +1,22 @@
+City Disaster Events Knowledge Base
+----------------------------------------
+
+General Q&A:
+
+Q: How is the disaster risk level determined?
+A: Each disaster event is scored based on wind speed, precipitation, severity, and casualties. Scores range from 0 (low) to 2 (high) per metric. An average risk score is calculated: ≤0.5 is 'low', ≥1.5 is 'high', and values in between are 'medium'. This method provides a balanced risk assessment.
+
+Q: What do the marker colors represent on the map?
+A: Markers are color-coded by risk level: Green = Low, Orange = Medium, Dark Red = High. This color scheme helps users quickly assess severity.
+
+Q: What can I see when I click on a disaster marker?
+A: You’ll see a popup with the disaster type, zone number, risk level, wind speed, precipitation, severity, and casualties. This allows quick assessment of localized impact.
+
+Q: How is the map centered and what does it display?
+A: The map auto-centers on the average latitude/longitude of all data points, offering a city-wide overview. Events are shown using CircleMarkers categorized by risk level. Layers can be toggled by risk category.
+
+Q: What is the purpose of this dashboard?
+A: This dashboard supports real-time crisis intelligence for smart cities. It visualizes threats and recommends responses, empowering city officials to act on accurate, data-driven insights.
+
+
+Zonal Insights:

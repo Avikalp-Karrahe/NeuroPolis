@@ -1,0 +1,746 @@
+
+Explain how disaster risk levels are determined?
+Disaster risk levels are categorized by evaluating wind speed, precipitation, severity, and casualties. The risk scoring is as follows:
+
+High Risk: Wind speed > 85 km/h or precipitation > 175 mm, combined with either severity ≥ 8.0 or casualties ≥ 85.
+
+Low Risk: Wind speed < 70 km/h or precipitation < 120 mm, combined with severity ≤ 6.0 and casualties ≤ 60.
+
+Medium Risk: Events that do not clearly meet either the high or low-risk criteria are classified as medium risk.
+
+Q2: What do marker colors indicate on the dashboard map?
+Marker colors indicate the disaster risk level
+
+
+Green markers: Low risk.
+
+Orange markers: Medium risk.
+
+Dark Red markers: High risk.
+
+Q3: What information is displayed when clicking a disaster marker?
+A3: Clicking a marker reveals detailed information including:
+
+Disaster type
+
+Zone number
+
+Risk level
+
+Wind speed
+
+Precipitation
+
+Severity
+
+Casualty count
+
+Q4: How is the disaster events map centered, and what is shown?
+A4: The map is centered based on the average latitude and longitude of all disaster events. Markers are grouped using MarkerCluster to maintain clarity, especially in densely populated disaster areas.
+
+Explanatory Note:
+This dashboard aids in crisis management for smart city scenarios, helping city officials quickly interpret disaster data and allocate resources effectively during emergencies.
+
+Detailed Zone-Specific Disaster Summaries:
+
+Zone 0.0:
+
+Total disaster events in Zone 0.0: 1105.
+
+Zone 0.0's most common risk level: Low.
+
+Zone 0.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 0.0: 229.
+
+Fire events in Zone 0.0: 207.
+
+Hurricane events in Zone 0.0: 234.
+
+Zone 1.0:
+
+Total disaster events in Zone 1.0: 960.
+
+Zone 1.0's most common risk level: Low.
+
+Zone 1.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 1.0: 193.
+
+Fire events in Zone 1.0: 185.
+
+Hurricane events in Zone 1.0: 203.
+
+Zone 2.0:
+
+Total disaster events in Zone 2.0: 925.
+
+Zone 2.0's most common risk level: Low.
+
+Zone 2.0's most frequent disaster type: Fire.
+
+Flood events in Zone 2.0: 185.
+
+Fire events in Zone 2.0: 197.
+
+Hurricane events in Zone 2.0: 180.
+
+Zone 3.0:
+
+Total disaster events in Zone 3.0: 917.
+
+Zone 3.0's most common risk level: Low.
+
+Zone 3.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 3.0: 198.
+
+Fire events in Zone 3.0: 181.
+
+Hurricane events in Zone 3.0: 146.
+
+Zone 4.0:
+
+Total disaster events in Zone 4.0: 1110.
+
+Zone 4.0's most common risk level: Low.
+
+Zone 4.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 4.0: 221.
+
+Fire events in Zone 4.0: 210.
+
+Hurricane events in Zone 4.0: 215.
+
+Zone 5.0:
+
+Total disaster events in Zone 5.0: 999.
+
+Zone 5.0's most common risk level: Low.
+
+Zone 5.0's most frequent disaster type: Flood.
+
+Flood events in Zone 5.0: 223.
+
+Fire events in Zone 5.0: 197.
+
+Hurricane events in Zone 5.0: 173.
+
+Zone 6.0:
+
+Total disaster events in Zone 6.0: 903.
+
+Zone 6.0's most common risk level: Low.
+
+Zone 6.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 6.0: 172.
+
+Fire events in Zone 6.0: 180.
+
+Hurricane events in Zone 6.0: 198.
+
+Zone 7.0:
+
+Total disaster events in Zone 7.0: 1145.
+
+Zone 7.0's most common risk level: Low.
+
+Zone 7.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 7.0: 237.
+
+Fire events in Zone 7.0: 226.
+
+Hurricane events in Zone 7.0: 222.
+
+Zone 8.0:
+
+Total disaster events in Zone 8.0: 1014.
+
+Zone 8.0's most common risk level: Low.
+
+Zone 8.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 8.0: 179.
+
+Fire events in Zone 8.0: 220.
+
+Hurricane events in Zone 8.0: 188.
+
+Zone 9.0:
+
+Total disaster events in Zone 9.0: 952.
+
+Zone 9.0's most common risk level: Low.
+
+Zone 9.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 9.0: 187.
+
+Fire events in Zone 9.0: 171.
+
+Hurricane events in Zone 9.0: 210.
+
+Zone 10.0:
+
+Total disaster events in Zone 10.0: 987.
+
+Zone 10.0's most common risk level: Low.
+
+Zone 10.0's most frequent disaster type: Fire.
+
+Flood events in Zone 10.0: 182.
+
+Fire events in Zone 10.0: 224.
+
+Hurricane events in Zone 10.0: 221.
+
+Zone 11.0:
+
+Total disaster events in Zone 11.0: 1042.
+
+Zone 11.0's most common risk level: Low.
+
+Zone 11.0's most frequent disaster type: Fire.
+
+Flood events in Zone 11.0: 199.
+
+Fire events in Zone 11.0: 226.
+
+Hurricane events in Zone 11.0: 191.
+
+Zone 12.0:
+
+Total disaster events in Zone 12.0: 968.
+
+Zone 12.0's most common risk level: Low.
+
+Zone 12.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 12.0: 174.
+
+Fire events in Zone 12.0: 180.
+
+Hurricane events in Zone 12.0: 218.
+
+Zone 13.0:
+
+Total disaster events in Zone 13.0: 1102.
+
+Zone 13.0's most common risk level: Low.
+
+Zone 13.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 13.0: 222.
+
+Fire events in Zone 13.0: 222.
+
+Hurricane events in Zone 13.0: 237.
+
+
+Zone 14.0:
+
+Total disaster events in Zone 14.0: 896.
+
+Zone 14.0's most common risk level: Low.
+
+Zone 14.0's most frequent disaster type: Flood.
+
+Flood events in Zone 14.0: 195.
+
+Fire events in Zone 14.0: 175.
+
+Hurricane events in Zone 14.0: 165.
+
+Zone 15.0:
+
+Total disaster events in Zone 15.0: 1018.
+
+Zone 15.0's most common risk level: Low.
+
+Zone 15.0's most frequent disaster type: Fire.
+
+Flood events in Zone 15.0: 189.
+
+Fire events in Zone 15.0: 216.
+
+Hurricane events in Zone 15.0: 186.
+
+Zone 16.0:
+
+Total disaster events in Zone 16.0: 901.
+
+Zone 16.0's most common risk level: Low.
+
+Zone 16.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 16.0: 171.
+
+Fire events in Zone 16.0: 176.
+
+Hurricane events in Zone 16.0: 184.
+
+Zone 17.0:
+
+Total disaster events in Zone 17.0: 992.
+
+Zone 17.0's most common risk level: Low.
+
+Zone 17.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 17.0: 184.
+
+Fire events in Zone 17.0: 184.
+
+Hurricane events in Zone 17.0: 227.
+
+Zone 18.0:
+
+Total disaster events in Zone 18.0: 924.
+
+Zone 18.0's most common risk level: Low.
+
+Zone 18.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 18.0: 177.
+
+Fire events in Zone 18.0: 190.
+
+Hurricane events in Zone 18.0: 195.
+
+Zone 19.0:
+
+Total disaster events in Zone 19.0: 1180.
+
+Zone 19.0's most common risk level: Low.
+
+Zone 19.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 19.0: 218.
+
+Fire events in Zone 19.0: 219.
+
+Hurricane events in Zone 19.0: 234.
+
+Zone 20.0:
+
+Total disaster events in Zone 20.0: 949.
+
+Zone 20.0's most common risk level: Low.
+
+Zone 20.0's most frequent disaster type: Flood.
+
+Flood events in Zone 20.0: 201.
+
+Fire events in Zone 20.0: 186.
+
+Hurricane events in Zone 20.0: 189.
+
+Zone 21.0:
+
+Total disaster events in Zone 21.0: 1006.
+
+Zone 21.0's most common risk level: Low.
+
+Zone 21.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 21.0: 195.
+
+Fire events in Zone 21.0: 203.
+
+Hurricane events in Zone 21.0: 198.
+
+Zone 22.0:
+
+Total disaster events in Zone 22.0: 1079.
+
+Zone 22.0's most common risk level: Low.
+
+Zone 22.0's most frequent disaster type: Flood.
+
+Flood events in Zone 22.0: 224.
+
+Fire events in Zone 22.0: 222.
+
+Hurricane events in Zone 22.0: 220.
+
+Zone 23.0:
+
+Total disaster events in Zone 23.0: 988.
+
+Zone 23.0's most common risk level: Low.
+
+Zone 23.0's most frequent disaster type: Flood.
+
+Flood events in Zone 23.0: 218.
+
+Fire events in Zone 23.0: 177.
+
+Hurricane events in Zone 23.0: 199.
+
+Zone 24.0:
+
+Total disaster events in Zone 24.0: 1031.
+
+Zone 24.0's most common risk level: Low.
+
+Zone 24.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 24.0: 190.
+
+Fire events in Zone 24.0: 204.
+
+Hurricane events in Zone 24.0: 205
+
+
+Zone 25.0:
+
+Total disaster events in Zone 25.0: 1142.
+
+Zone 25.0's most common risk level: Low.
+
+Zone 25.0's most frequent disaster type: Fire.
+
+Flood events in Zone 25.0: 230.
+
+Fire events in Zone 25.0: 245.
+
+Hurricane events in Zone 25.0: 236.
+
+Zone 26.0:
+
+Total disaster events in Zone 26.0: 1222.
+
+Zone 26.0's most common risk level: Low.
+
+Zone 26.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 26.0: 220.
+
+Fire events in Zone 26.0: 219.
+
+Hurricane events in Zone 26.0: 254.
+
+Zone 27.0:
+
+Total disaster events in Zone 27.0: 947.
+
+Zone 27.0's most common risk level: Low.
+
+Zone 27.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 27.0: 178.
+
+Fire events in Zone 27.0: 195.
+
+Hurricane events in Zone 27.0: 185.
+
+Zone 28.0:
+
+Total disaster events in Zone 28.0: 1027.
+
+Zone 28.0's most common risk level: Low.
+
+Zone 28.0's most frequent disaster type: Flood.
+
+Flood events in Zone 28.0: 224.
+
+Fire events in Zone 28.0: 195.
+
+Hurricane events in Zone 28.0: 218.
+
+Zone 29.0:
+
+Total disaster events in Zone 29.0: 1099.
+
+Zone 29.0's most common risk level: Low.
+
+Zone 29.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 29.0: 219.
+
+Fire events in Zone 29.0: 207.
+
+Hurricane events in Zone 29.0: 238.
+
+Zone 30.0:
+
+Total disaster events in Zone 30.0: 957.
+
+Zone 30.0's most common risk level: Low.
+
+Zone 30.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 30.0: 165.
+
+Fire events in Zone 30.0: 196.
+
+Hurricane events in Zone 30.0: 201.
+
+Zone 31.0:
+
+Total disaster events in Zone 31.0: 963.
+
+Zone 31.0's most common risk level: Low.
+
+Zone 31.0's most frequent disaster type: Flood.
+
+Flood events in Zone 31.0: 206.
+
+Fire events in Zone 31.0: 186.
+
+Hurricane events in Zone 31.0: 201.
+
+Zone 32.0:
+
+Total disaster events in Zone 32.0: 953.
+
+Zone 32.0's most common risk level: Low.
+
+Zone 32.0's most frequent disaster type: Flood.
+
+Flood events in Zone 32.0: 209.
+
+Fire events in Zone 32.0: 173.
+
+Hurricane events in Zone 32.0: 176.
+
+Zone 33.0:
+
+Total disaster events in Zone 33.0: 1037.
+
+Zone 33.0's most common risk level: Low.
+
+Zone 33.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 33.0: 203.
+
+Fire events in Zone 33.0: 200.
+
+Hurricane events in Zone 33.0: 222.
+
+Zone 34.0:
+
+Total disaster events in Zone 34.0: 931.
+
+Zone 34.0's most common risk level: Low.
+
+Zone 34.0's most frequent disaster type: Flood.
+
+Flood events in Zone 34.0: 213.
+
+Fire events in Zone 34.0: 168.
+
+Hurricane events in Zone 34.0: 195.
+
+ZZone 35.0:
+
+Total disaster events in Zone 35.0: 1001.
+
+Zone 35.0's most common risk level: Low.
+
+Zone 35.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 35.0: 209.
+
+Fire events in Zone 35.0: 195.
+
+Hurricane events in Zone 35.0: 190.
+
+Zone 36.0:
+
+Total disaster events in Zone 36.0: 1058.
+
+Zone 36.0's most common risk level: Low.
+
+Zone 36.0's most frequent disaster type: Fire.
+
+Flood events in Zone 36.0: 217.
+
+Fire events in Zone 36.0: 218.
+
+Hurricane events in Zone 36.0: 216.
+
+Zone 37.0:
+
+Total disaster events in Zone 37.0: 827.
+
+Zone 37.0's most common risk level: Low.
+
+Zone 37.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 37.0: 164.
+
+Fire events in Zone 37.0: 153.
+
+Hurricane events in Zone 37.0: 174.
+
+Zone 38.0:
+
+Total disaster events in Zone 38.0: 998.
+
+Zone 38.0's most common risk level: Low.
+
+Zone 38.0's most frequent disaster type: Flood.
+
+Flood events in Zone 38.0: 210.
+
+Fire events in Zone 38.0: 186.
+
+Hurricane events in Zone 38.0: 205.
+
+Zone 39.0:
+
+Total disaster events in Zone 39.0: 925.
+
+Zone 39.0's most common risk level: Low.
+
+Zone 39.0's most frequent disaster type: Fire.
+
+Flood events in Zone 39.0: 175.
+
+Fire events in Zone 39.0: 200.
+
+Hurricane events in Zone 39.0: 195.
+
+Zone 40.0:
+
+Total disaster events in Zone 40.0: 839.
+
+Zone 40.0's most common risk level: Low.
+
+Zone 40.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 40.0: 163.
+
+Fire events in Zone 40.0: 161.
+
+Hurricane events in Zone 40.0: 176.
+
+Zone 41.0:
+
+Total disaster events in Zone 41.0: 1030.
+
+Zone 41.0's most common risk level: Low.
+
+Zone 41.0's most frequent disaster type: Fire.
+
+Flood events in Zone 41.0: 213.
+
+Fire events in Zone 41.0: 234.
+
+Hurricane events in Zone 41.0: 214.
+
+Zone 42.0:
+
+Total disaster events in Zone 42.0: 943.
+
+Zone 42.0's most common risk level: Low.
+
+Zone 42.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 42.0: 179.
+
+Fire events in Zone 42.0: 189.
+
+Hurricane events in Zone 42.0: 180.
+
+Zone 43.0:
+
+Total disaster events in Zone 43.0: 940.
+
+Zone 43.0's most common risk level: Low.
+
+Zone 43.0's most frequent disaster type: Hurricane.
+
+Flood events in Zone 43.0: 181.
+
+Fire events in Zone 43.0: 188.
+
+Hurricane events in Zone 43.0: 215.
+
+Zone 44.0:
+
+Total disaster events in Zone 44.0: 975.
+
+Zone 44.0's most common risk level: Low.
+
+Zone 44.0's most frequent disaster type: Flood.
+
+Flood events in Zone 44.0: 206.
+
+Fire events in Zone 44.0: 191.
+
+Hurricane events in Zone 44.0: 185.
+
+Zone 45.0:
+
+Total disaster events in Zone 45.0: 1045.
+
+Zone 45.0's most common risk level: Low.
+
+Zone 45.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 45.0: 217.
+
+Fire events in Zone 45.0: 221.
+
+Hurricane events in Zone 45.0: 196.
+
+Zone 46.0:
+
+Total disaster events in Zone 46.0: 956.
+
+Zone 46.0's most common risk level: Low.
+
+Zone 46.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 46.0: 174.
+
+Fire events in Zone 46.0: 182.
+
+Hurricane events in Zone 46.0: 196.
+
+Zone 47.0:
+
+Total disaster events in Zone 47.0: 1036.
+
+Zone 47.0's most common risk level: Low.
+
+Zone 47.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 47.0: 198.
+
+Fire events in Zone 47.0: 190.
+
+Hurricane events in Zone 47.0: 214.
+
+Zone 48.0:
+
+Total disaster events in Zone 48.0: 985.
+
+Zone 48.0's most common risk level: Low.
+
+Zone 48.0's most frequent disaster type: Earthquake.
+
+Flood events in Zone 48.0: 193.
+
+Fire events in Zone 48.0: 201.
+
+Hurricane events in Zone 48.0: 192.
+
+Zone 49.0:
+
+Total disaster events in Zone 49.0: 1071.
+
+Zone 49.0's most common risk level: Low.
+
+Zone 49.0's most frequent disaster type: Industrial accident.
+
+Flood events in Zone 49.0: 225.
+
+Fire events in Zone 49.0: 183.
+
+Hurricane events in Zone 49.0: 208.
